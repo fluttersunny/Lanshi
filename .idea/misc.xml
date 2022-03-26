@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lanshi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37552083333333336" />
+        <entry key="..\:/Lanshi/app/src/main/res/drawable/translucent_button.xml" value="0.21666666666666667" />
+        <entry key="..\:/Lanshi/app/src/main/res/drawable/translucent_edit.xml" value="0.21666666666666667" />
+        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_login_page.xml" value="0.20052083333333334" />
+        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_sign_up.xml" value="0.20052083333333334" />
+        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_start_page.xml" value="0.1580547112462006" />
+        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_start_page2.xml" value="0.13360507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
