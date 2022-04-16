@@ -3,14 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Lanshi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37552083333333336" />
-        <entry key="..\:/Lanshi/app/src/main/res/drawable/translucent_button.xml" value="0.21666666666666667" />
-        <entry key="..\:/Lanshi/app/src/main/res/drawable/translucent_edit.xml" value="0.21666666666666667" />
-        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_login_page.xml" value="0.20052083333333334" />
-        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
-        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_sign_up.xml" value="0.20052083333333334" />
-        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_start_page.xml" value="0.1580547112462006" />
-        <entry key="..\:/Lanshi/app/src/main/res/layout/activity_start_page2.xml" value="0.13360507246376813" />
+        <entry key="..\:/Homepage/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Homepage/app/src/main/res/layout/single_item.xml" value="0.1" />
+        <entry key="..\:/Homepage/app/src/main/res/layout/single_plan.xml" value="0.1" />
+        <entry key="..\:/Homepage/app/src/main/res/layout/title.xml" value="0.1" />
       </map>
     </option>
   </component>
