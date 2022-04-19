@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="false"
+        android:text="00:00"
+        android:textColor="#000"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/item_vertical_line"
+        android:layout_width="57dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_time"
+        android:layout_marginTop="-1dp"
+        android:src="@mipmap/vertical_line" />
+
+    <ImageView
+        android:id="@+id/item_right_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_time"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="-15dp"
+        android:layout_toRightOf="@id/item_vertical_line"
+        android:src="@mipmap/horizontal_line" />
+
+    <TextView
+        android:id="@+id/item_plan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-1dp"
+        android:layout_toRightOf="@id/item_right_line"
+        android:text="Something plans"
+        android:textColor="#000"
+        android:textSize="24sp" />
+</RelativeLayout>
