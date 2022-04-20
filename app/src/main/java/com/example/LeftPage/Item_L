@@ -1,0 +1,20 @@
+package com.example.leftpage;
+
+
+public class Item {
+    private String time;
+
+    private String plan;
+
+    public Item() {}
+    public Item(String time,String plan) {
+        this.time = time;
+        this.plan = plan;
+    }
+    public String getTime() {
+        return time;
+    }
+    public String getPlan() {
+        return plan;
+    }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <include layout="@layout/title"
+        />
+
+    <ImageView
+        android:id="@+id/circle1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:src="@mipmap/circle" />
+
+    <ListView
+        android:id="@+id/timeline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:clickable="false"
+        android:listSelector="@android:color/transparent"
+        android:dividerHeight="0dp"
+        />
+
+    <ImageView
+        android:id="@+id/circle2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:src="@mipmap/circle"
+        />
+
+</LinearLayout>
