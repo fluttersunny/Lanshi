@@ -1,4 +1,4 @@
-package com.example.homepage;
+package com.example.Homepage;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,14 +6,14 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class HomepageActivity extends AppCompatActivity {
     private ListView timeline;
     private List<Item> itemList = new ArrayList<>(10);
     private ItemListAdapter adapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_homepage);
         findView();
         initData();
     }

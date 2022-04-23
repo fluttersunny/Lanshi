@@ -1,6 +1,5 @@
-package com.example.lanshi;
+package com.example.startpage;
 
-import android.content.Intent;
 import android.os.Bundle;
 
 public class StartPageActivity extends BaseActivity {

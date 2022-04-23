@@ -1,4 +1,4 @@
-package com.example.lanshi;
+package com.example.startpage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
